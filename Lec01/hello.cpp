@@ -24,7 +24,7 @@ int main() {
   // display the content between double quotes as it is on the screen. 
   cout << "Hello World!";
 
-  //This statement returns value 0 from the main() function which indicates 
+  // This statement returns value 0 from the main() function which indicates 
   // that the execution of main function is successful
   return 0;
 }
