@@ -34,3 +34,5 @@
 
 
 *.dSYM
+.DS_Store
+Lec05/GuessNumberOneTime
