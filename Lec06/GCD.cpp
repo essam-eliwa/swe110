@@ -24,5 +24,7 @@ int main()
   cout << "The greatest common divisor for " << n1 << " and "
        << n2 << " is " << gcd << endl;
 
+
+
   return 0;
 }
