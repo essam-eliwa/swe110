@@ -31,9 +31,19 @@
 *.out
 *.app
 !*.*
+!*.cpp
 
 
 *.dSYM
 .DS_Store
 Lec05/GuessNumberOneTime
 .vscode/
+Lec10/CallDepth
+Lec10/Check30
+Lec10/Circle
+Lec10/Factorial
+Lec10/NumbersSum
+Lec10/NumPrintRec
+Lec10/PerfectNumber
+Lec10/Temprature
+Lec10/MaxOfThree
